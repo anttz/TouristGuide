@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#448AFF</color>
+    <!-- Background color for the attractions category -->
+    <color name="attractions">#FFC107</color>
+    <!-- Background color for the restaurants category -->
+    <color name="restaurants">#4CAF50</color>
+    <!-- Background color for the hotels category -->
+    <color name="hotels">#FF5252</color>
+    <!-- Background color for the bars category -->
+    <color name="bars">#FF5722</color>
+</resources>

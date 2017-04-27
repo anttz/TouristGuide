@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Athens Tourist Guide</string>
+
+    <!-- Titles -->
+    <string name="attractions_title">Attractions</string>
+    <string name="restaurants_title">Restaurants</string>
+    <string name="Hotels_title">Hotels</string>
+    <string name="Bars_title">Bars</string>
+
+    <!-- Places and Addresses -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address_1">Athens 105 58</string>
+    <string name="address_2">28is Oktovriou 44</string>
+    <string name="address_3">George\'s 10</string>
+    <string name="address_4">Parnassou 2</string>
+    <string name="address_5">Poseidonos 2</string>
+    <string name="address_6">Stadiou 13</string>
+    <string name="restaurants_address_1">Kosta 2</string>
+    <string name="restaurants_address_2">Nikitara 4</string>
+    <string name="restaurants_address_3">Andrea 7</string>
+    <string name="restaurants_address_4">Panteli 2</string>
+    <string name="restaurants_address_5">Poseidonos 10</string>
+    <string name="restaurants_address_6">Kifisias 13</string>
+    <string name="hotel_address_1">Nikolaou 2</string>
+    <string name="hotel_address_2">Kallikrati 10</string>
+    <string name="hotel_address_3">Vasileiou 7</string>
+    <string name="hotel_address_4">Panteli 2</string>
+    <string name="hotel_address_5">Palaiologou 10</string>
+    <string name="hotel_address_6">Kifisias 23</string>
+    <string name="bar_address_1">Spyrou 2</string>
+    <string name="bar_address_2">Alexiou 4</string>
+    <string name="bar_address_3">Andrea 7</string>
+    <string name="bar_address_4">Nikhs 2</string>
+    <string name="bar_address_5">Voulas 10</string>
+    <string name="bar_address_6">Drosias 43</string>
+    <string name="restaurant_1">Modern Restaurant</string>
+    <string name="restaurant_2">Traditional Restaurant</string>
+    <string name="restaurant_3">Healthy Restaurant</string>
+    <string name="restaurant__4">Luxury Restaurant</string>
+    <string name="restaurant_5">"Golden Restaurant, "</string>
+    <string name="restaurant_6">Italian Restaurant</string>
+    <string name="bar_1">Acropolis View Bar</string>
+    <string name="bar_2">Athens Bar</string>
+    <string name="bar_3">Sea View Bar</string>
+    <string name="bar_4">Ancient Bar</string>
+    <string name="bar_5">"Modern Bar, "</string>
+    <string name="bar_6">Golden Bar</string>
+    <string name="attraction_1">Acropolis</string>
+    <string name="attraction_2">National Archaelogical Museum</string>
+    <string name="attraction_3">National Gallery</string>
+    <string name="attraction_4">Museum of the City of Athens</string>
+    <string name="attraction_5">"Greek cruiser Georgios Averof "</string>
+    <string name="attraction_6">Old Parliament House, Athens</string>
+    <string name="hotel_1">Best Hotel</string>
+    <string name="hotel_2">Acropolis Hotel</string>
+    <string name="hotel_3">Sea Hotel</string>
+    <string name="hotel_4">Luxury Hotel</string>
+    <string name="hotel_5">"King Hotel, "</string>
+    <string name="hotel_6">Golden Hotel</string>
+</resources>
